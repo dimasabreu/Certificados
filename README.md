@@ -1,16 +1,32 @@
-# Certificados
-Alguns Dos meus Certificados
+# Alguns dos meus Certificados
 
-
-<div align="center">
-
-| ![Diploma Investigacao Particular](DiplomaInvestigacaoParticular.png)    | ![CC50](CC50.png)  
-| ------------- | :-------------: |
-| ![Curso De Python](CursoDePython.png)         | ![Animacao Digital](AnimacaoDigital.png)  
-| ![Introducao Ciência Da Computação Com Python](IntroducaoCienciaDaComputacaoComPython.png) |  ![Jogos Para Dispositivos Moveis](JogosParaDispositivosMoveis.png)  
-| ![Linguagem De Programação Python](LinguagemDeProgramacaoPython.png)  | ![Logica De Programação](LogicaDeProgramacao.png)
-|![Manutenção De Computadores](ManutencaoDeComputadores.png)  | ![Negociacoes De Sucesso](NegociacoesDeSucesso.png) 
-|![None Class Dev](NoneClassDev.png)  | ![Produção Animação 2D](ProducaoAnimacao2D.png) 
-|![RH Data Driven](RHDataDriven.png)  | ![certificado minicamp data & dev](certificadominicampdata.png) 
-
-</div>
+<table width="100%">
+  <tr>
+  <td width="50%"><img src="DiplomaInvestigacaoParticular.png"/></td>
+  <td width="50%"><img src="CC50.png"/></td>
+  </tr>
+  <tr>
+  <td width="50%"><img src="CursoDePython.png"/></td>
+  <td width="50%"><img src="AnimacaoDigital.png"/></td>
+  </tr>
+  <tr>
+  <td width="50%"><img src="IntroducaoCienciaDaComputacaoComPython.png"/></td>
+  <td width="50%"><img src="JogosParaDispositivosMoveis.png"/></td>
+  </tr>
+  <tr>
+  <td width="50%"><img src="LinguagemDeProgramacaoPython.png"/></td>
+  <td width="50%"><img src="LogicaDeProgramacao.png"/></td>
+  </tr>
+  <tr>
+  <td width="50%"><img src="ManutencaoDeComputadores.png"/></td>
+  <td width="50%"><img src="NegociacoesDeSucesso.png"/></td>
+  </tr>
+  <tr>
+  <td width="50%"><img src="NoneClassDev.png"/></td>
+  <td width="50%"><img src="ProducaoAnimacao2D.png"/></td>
+  </tr>
+  <tr>
+  <td width="50%"><img src="RHDataDriven.png"/></td>
+  <td width="50%"><img src="certificadominicampdata.png"/></td>
+  </tr>
+</table>
