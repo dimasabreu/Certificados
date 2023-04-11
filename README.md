@@ -33,6 +33,6 @@
   </tr> 
   <tr>
   <td width="50%"><img src="imagem_2023-04-11_131547412.png"/></td>
-  <td width="50%"></td>
+  <td width="50%"><img src="imagem_2023-04-11_131758138.png"/></td>
   </tr>
 </table>
