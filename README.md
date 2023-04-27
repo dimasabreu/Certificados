@@ -36,16 +36,20 @@
   <td width="50%"><img src="imagem_2023-04-11_131758138.png"/></td>
   </tr>
   <tr>
-  <td width="50%"><img src="1681582622923.jfif"/></td>
-  <td width="50%"><img src="imagem_2023-04-15_162059956.png"/></td>
+  <td width="50%"><img src="Foundations.png"/></td>
+  <td width="50%"><img src="AskQuestions.png"/></td>
   </tr>
   <tr>
-  <td width="50%"><img src="imagem_2023-04-15_210920708.png"/></td>
-  <td width="50%"><img src="imagem_2023-04-16_224929044.png"/></td>
+  <td width="50%"><img src="PrepareData.png"/></td>
+  <td width="50%"><img src="DataClean.png"/></td>
   </tr>
   <tr>
-  <td width="50%"><img src="imagem_2023-04-18_181530104.png"/></td>
-  <td width="50%"><img src="imagem_2023-04-26_214544803.png"/></td>
+  <td width="50%"><img src="AnalyzeData.png"/></td>
+  <td width="50%"><img src="ShareData.png"/></td>
+  </tr>
+  <tr>
+  <td width="50%"><img src="RPrograming.png"/></td>
+  <td width="50%"><img src=""/></td>
   </tr>
   
-</table>
+</table>      
