@@ -49,7 +49,7 @@
   </tr>
   <tr>
   <td width="50%"><img src="RPrograming.png"/></td>
-  <td width="50%"><img src=""/></td>
+  <td width="50%"><img src="imagem_2023-05-03_203708207.png"/></td>
   </tr>
   
 </table>      
