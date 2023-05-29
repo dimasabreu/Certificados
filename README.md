@@ -53,7 +53,7 @@
   </tr>
   <tr>
   <td width="50%"><img src="imagem_2023-05-03_203824984.png"/></td>
-  <td width="50%"><img src=""/></td>
+  <td width="50%"><img src="imagem_2023-05-29_201450349.png"/></td>
   </tr>
   
 </table>      
