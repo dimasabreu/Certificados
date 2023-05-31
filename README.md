@@ -55,5 +55,8 @@
   <td width="50%"><img src="CursoDePython.png"/></td>
   <td width="50%"><img src="imagem_2023-05-29_201450349.png"/></td>
   </tr>
-  
+  <tr>
+  <td width="50%"><img src="imagem_2023-05-31_170545205.png"/></td>
+  <td width="50%"><img src=""/></td>
+  </tr>
 </table>      
