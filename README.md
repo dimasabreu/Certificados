@@ -59,4 +59,9 @@
   <td width="50%"><img src="CERTIFICADOS/imagem_2023-05-31_170545205.png"/></td>
   <td width="50%"><img src="CERTIFICADOS/imagem_2023-06-01_175313389.png"/></td>
   </tr>
+  <tr>
+  <td width="50%"><img src="CERTIFICADOS/imagem_2023-06-21_171614530.png"/></td>
+  <td width="50%"><img src=""/></td>
+  </tr>
+  
 </table>      
